@@ -1,4 +1,8 @@
 # Trabajo Práctico Nro 1 - PAW
+## Introducción al Maquetado
+
+**Objetivo:** Obtener los conocimientos básicos sobre el maquetado de una página web. 
+
 
 #### 1. ¿Qué es un lenguaje de marcado? ¿Cuál es su utilidad? ¿Qué es un tag? ¿Qué es un atributo?
 
