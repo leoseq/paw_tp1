@@ -7,7 +7,9 @@
 #### 1. ¿Qué es un lenguaje de marcado? ¿Cuál es su utilidad? ¿Qué es un tag? ¿Qué es un atributo?
 Un lenguaje de marcado o es una forma de codificar un documento que, junto con el texto, incorpora etiquetas que contienen información adicional acerca de la estructura del texto, por ejemplo HTML (*HyperText Markup Language*, lenguaje de marcado de hipertexto). No son lenguajes de programación.
 <br>
-Los lenguajes de marcado se utilizan
+Los lenguajes de marcado se utilizan.........
+<br>
+Los tags, o etiquetas, son los "comandos" que los navegadores leen e interpretan para armar y dar forma a las páginas de Internet.
 
 * * *
 #### 2. ¿Cuál es la utilidad de HTML? ¿Qué conjunto mínimo de tags debe contener un documento elaborado en este lenguaje? Describa brevemente su utilidad.
