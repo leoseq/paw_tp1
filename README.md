@@ -31,5 +31,14 @@ El rendering Engine es un proceso que todos los browser tienen. El objetivo fund
 | IE-Edge | Trident |
 | Opera | Presto |
 
+* * *
+#### 6. Dibujar el Wireframe correspondiente a la página principal de lujan.gob.ar y en función a este desarrollar el código HTML5 correspondiente.
+
 
 * * *
+#### 7. Elabore en HTML5 una página que contenga su currículum vítae, respetando la estructura que se muestra a continuación. Tenga en cuenta que los elementos subrayados son enlaces a páginas web o a direcciones de correo electrónico y que la foto debe ser un enlace a la propia imagen. Determine qué tags con qué atributos son necesarios en cada caso.
+
+
+* * *
+#### 8. Elabore el código necesario para representar la siguiente tabla:
+La tabla se encuentra en el archivo: *Punto_8.html*
