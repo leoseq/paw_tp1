@@ -20,5 +20,16 @@ Los lenguajes de marcado se utilizan
 
 * * *
 #### 5. ¿Qué es el Rendering Engine de un Browser? ¿Cuál es el que utiliza cada uno de los 5 browsers más conocidos (Chrome, Firefox, Safari, IE-Edge, Opera)? ¿Cuál es la importancia de conocer cada uno de ellos en la construcción de un sitio?
+El rendering Engine es un proceso que todos los browser tienen. El objetivo fundamental es transformar documentos HTML y otros recursos  de una pagina web en una representacion visual interactiva en el dispositivo de un usuario.
+<br>
+
+| Browser Client | Browser Engine |
+| --------- | --------- |
+| Chrome | Blink |
+| Firefox | Gecko |
+| Safari | WebKit |
+| IE-Edge | Trident |
+| Opera | Presto |
+
 
 * * *
