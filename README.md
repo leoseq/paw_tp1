@@ -32,6 +32,17 @@ Estructura HTML
 
 * * *
 #### 3. ¿Cuál es la utilidad e importancia de los enlaces o links entre páginas? ¿Qué significa hipertexto? ¿Un link solo puede apuntar a otra página? ¿Qué importancia tiene esto último?
+Un link describe una redireccion unidireccional que pueden enlazar tanto dos documentos diferentes como distintas partes dentro de un mismo documento y si un texto está compuesto por diferentes hyperlinks recibe el nombre de hipertexto.
+<p>
+Los enlaces o links pueden ser textos o imágenes, que con solo darle clic nos pueden dirigir a otro sitio web o algún documento que quieras descargar.
+<p> 
+Un link no necesariamente debe apuntar a otra pagina externa, existen links que pueden redireccionar a una seccion especifica del mismo sitio web. 
+<p>
+Ejemplo de link:
+    
+```html
+<a href="url">link text</a>
+```
 
 * * *
 #### 4. ¿Cómo funcionan los tags audio y video?
