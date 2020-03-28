@@ -18,11 +18,11 @@ Básicamente el lenguaje HTML sirve para describir la estructura básica de una 
 Estructura HTML
 
 ```html
-<html> <-- Bloque que indica que es codigo HTML
-    <head> <-- Bloque de cabecera, se incluye metadata del sitio
-        <title>Título del sitio Web</title> <-- Titulo de la pagina
+<html> <!-- Bloque que indica que es codigo HTML -->
+    <head> <!-- Bloque de cabecera, se incluye metadata del sitio -->
+        <title>Título del sitio Web</title> <!-- Titulo de la pagina -->
     </head>
-    <body> <-- Bloque del contenido del sitio
+    <body> <!-- Bloque del contenido del sitio -->
         <header> Aqui se incluye contenido introdutorio de la pagina </header>
         <main> Aqui va el contenido principal del sitio </main>
         <footer> Aqui se incluyen los pie de pagina </footer>
