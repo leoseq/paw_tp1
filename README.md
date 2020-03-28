@@ -45,7 +45,49 @@ Ejemplo de link:
 ```
 
 * * *
-#### 4. ¿Cómo funcionan los tags audio y video?
+#### 4. ¿Cómo funcionan los tags audio y video?   
+Antes de HTML5, los archivos de audio/video solo se podian reproducir con un complemento, como por ejemplo flash. El tag <audio> y <video> en HTML 5 especifican una forma estandar de incluir audio y video en una pagina web.
+<p>
+Ejemplo de Audio:
+    
+```html
+<audio controls> 
+    <source src="horse.ogg" type="audio/ogg">
+    Your browser does not support the video tag.
+</audio>
+```
+<p>
+Ejemplo de Video:
+    
+```html
+<video width="320" height="240" autoplay>
+    <source src="movie.mp4" type="video/mp4">
+    <source src="movie.ogg" type="video/ogg">
+    Your browser does not support the video tag.
+</video>
+```
+<p>
+El atributo controls agrega controles de audio y video, como reproducción, pausa y volumen.
+<p>
+El tag <source> permite especificar archivos de audio o video alternativos que el navegador puede elegir. El navegador usará el primer formato reconocido.
+<p>
+El texto entre el los tags <audio> y </audio> o <video> y </video> sólo se mostrará en los navegadores que no soportan el elemento <audio> o <video>.
+<p>
+Una buena idea es incluir siempre los atributos widthy y height. Si no se configuran alto y ancho, la página puede parpadear mientras se carga el video.
+
+En HTML5, hay 3 formatos de video y audio compatibles:
+
+* Video:
+    * MP4
+    * WebM
+    * Ogg
+
+* Audio: 
+    * MP3
+    * WAV
+    * OGG
+
+
 
 * * *
 #### 5. ¿Qué es el Rendering Engine de un Browser? ¿Cuál es el que utiliza cada uno de los 5 browsers más conocidos (Chrome, Firefox, Safari, IE-Edge, Opera)? ¿Cuál es la importancia de conocer cada uno de ellos en la construcción de un sitio?
@@ -53,7 +95,7 @@ El rendering Engine es un proceso que todos los browser tienen. El objetivo fund
 <br>
 
 | Browser Client | Browser Engine |
-| --------- | --------- |
+| :---------: | :---------: |
 | Chrome | Blink |
 | Firefox | Gecko |
 | Safari | WebKit |
