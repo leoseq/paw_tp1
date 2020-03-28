@@ -47,7 +47,6 @@ Ejemplo de link:
 * * *
 #### 4. ¿Cómo funcionan los tags audio y video?   
 Antes de HTML5, los archivos de audio/video solo se podian reproducir con un complemento, como por ejemplo flash. El tag <audio> y <video> en HTML 5 especifican una forma estandar de incluir audio y video en una pagina web.
-<p>
 Ejemplo de Audio:
     
 ```html
@@ -56,24 +55,23 @@ Ejemplo de Audio:
     Your browser does not support the video tag.
 </audio>
 ```
-<p>
+
 Ejemplo de Video:
     
 ```html
 <video width="320" height="240" autoplay>
     <source src="movie.mp4" type="video/mp4">
-    <source src="movie.ogg" type="video/ogg">
     Your browser does not support the video tag.
 </video>
 ```
-<p>
-El atributo controls agrega controles de audio y video, como reproducción, pausa y volumen.
-<p>
-El tag <source> permite especificar archivos de audio o video alternativos que el navegador puede elegir. El navegador usará el primer formato reconocido.
-<p>
+
+El atributo *controls* agrega controles de audio y video, como reproducción, pausa y volumen.
+
+El tag *source* permite especificar archivos de audio o video alternativos que el navegador puede elegir. El navegador usará el primer formato reconocido.
+
 El texto entre el los tags *audio* o *video* sólo se mostrará en los navegadores que no soportan el elemento audio/video.
-<p>
-Una buena idea es incluir siempre los atributos widthy y height. Si no se configuran alto y ancho, la página puede parpadear mientras se carga el video.
+
+Una buena idea es incluir siempre los atributos *widthy* y *height*. Si no se configuran alto y ancho, la página puede parpadear mientras se carga el video.
 
 En HTML5, hay 3 formatos de video y audio compatibles:
 
