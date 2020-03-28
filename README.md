@@ -9,21 +9,23 @@ Un lenguaje de marcado es una forma de codificar un documento que utiliza una no
 <p>
 Los tags, o etiquetas, son los "comandos" que los navegadores leen e interpretan para armar y dar forma a las páginas de Internet.
 <p>
-Un atributo 
-Los elementos en HTML tienen atributos, estos son valores adicionales que configuran los elementos o ajustan su comportamiento de diversas formas para cumplir los criterios de los usuarios.
+Los elementos en HTML tienen atributos, estos son valores adicionales que configuran los elementos (tags) o ajustan su comportamiento de diversas formas para cumplir los criterios de los usuarios.
 
 * * *
 #### 2. ¿Cuál es la utilidad de HTML? ¿Qué conjunto mínimo de tags debe contener un documento elaborado en este lenguaje? Describa brevemente su utilidad.
-Básicamente el lenguaje HTML sirve para describir la estructura básica de una página y organizar la forma en que se mostrará su contenido, además de que HTML permite incluir enlaces (links) hacia otras páginas o documentos.
+Básicamente el lenguaje HTML sirve para describir la estructura básica de una página y organizar la forma en que se mostrará su contenido.
 <p>
- **Estructura HTML**
+Estructura HTML
 
 ```html
-<html>
-    <head>
-        <title>Título del sitio Web</title>
+<html> <-- Bloque que indica que es codigo HTML
+    <head> <-- Bloque de cabecera, se incluye metadata del sitio
+        <title>Título del sitio Web</title> <-- Titulo de la pagina
     </head>
-    <body>
+    <body> <-- Bloque del contenido del sitio
+        <header> Aqui se incluye contenido introdutorio de la pagina </header>
+        <main> Aqui va el contenido principal del sitio </main>
+        <footer> Aqui se incluyen los pie de pagina </footer>
     </body>
 </html>
 ```
@@ -46,6 +48,8 @@ El rendering Engine es un proceso que todos los browser tienen. El objetivo fund
 | Safari | WebKit |
 | IE-Edge | Trident |
 | Opera | Presto |
+
+
 
 * * *
 #### 6. Dibujar el Wireframe correspondiente a la página principal de lujan.gob.ar y en función a este desarrollar el código HTML5 correspondiente.
