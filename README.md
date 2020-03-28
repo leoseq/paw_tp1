@@ -71,7 +71,7 @@ El atributo controls agrega controles de audio y video, como reproducción, paus
 <p>
 El tag <source> permite especificar archivos de audio o video alternativos que el navegador puede elegir. El navegador usará el primer formato reconocido.
 <p>
-El texto entre el los tags <audio> y </audio> o <video> y </video> sólo se mostrará en los navegadores que no soportan el elemento <audio> o <video>.
+El texto entre el los tags *audio* o *video* sólo se mostrará en los navegadores que no soportan el elemento audio/video.
 <p>
 Una buena idea es incluir siempre los atributos widthy y height. Si no se configuran alto y ancho, la página puede parpadear mientras se carga el video.
 
