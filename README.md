@@ -47,6 +47,7 @@ Ejemplo de link:
 * * *
 #### 4. ¿Cómo funcionan los tags audio y video?   
 Antes de HTML5, los archivos de audio/video solo se podian reproducir con un complemento, como por ejemplo flash. El tag <audio> y <video> en HTML 5 especifican una forma estandar de incluir audio y video en una pagina web.
+
 Ejemplo de Audio:
     
 ```html
