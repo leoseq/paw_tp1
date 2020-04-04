@@ -109,8 +109,12 @@ El wireframe se encuentra en el archivo: *Punto_6.html*. El mismo se encuentra b
 
 * * *
 #### 7. Elabore en HTML5 una página que contenga su currículum vítae, respetando la estructura que se muestra a continuación. Tenga en cuenta que los elementos subrayados son enlaces a páginas web o a direcciones de correo electrónico y que la foto debe ser un enlace a la propia imagen. Determine qué tags con qué atributos son necesarios en cada caso.
-
+El CV se encuentra en el archivo: *Punto_7.html*. 
 
 * * *
 #### 8. Elabore el código necesario para representar la siguiente tabla:
-La tabla se encuentra en el archivo: *Punto_8.html*
+La tabla se encuentra en el archivo: *Punto_8.html*.
+
+
+
+*Nota: En los casos de los puntos 6 y 7, entiendo que sin CSS no se puede dar el estilo deseado a la pagina*.
