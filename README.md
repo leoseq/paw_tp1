@@ -1,9 +1,11 @@
 # Trabajo Práctico Nro 1 - PAW
-## Introducción al Maquetado
 
+### Introducción al Maquetado
+***Autor:*** Leonardo Ariel Sequeira <br>
+***Legajo:*** 112776 <br>
 **Objetivo:** Obtener los conocimientos básicos sobre el maquetado de una página web. 
 
-
+* * *
 #### 1. ¿Qué es un lenguaje de marcado? ¿Cuál es su utilidad? ¿Qué es un tag? ¿Qué es un atributo?
 Un lenguaje de marcado es una forma de codificar un documento que utiliza una notación especial para marcar las diferentes secciones de un documento, junto con el texto, incorpora etiquetas o marcas que contienen información adicional acerca de la estructura del texto o su presentación, por ejemplo HTML (*HyperText Markup Language*, lenguaje de marcado de hipertexto). No son lenguajes de programación.
 <p>
